@@ -1,0 +1,77 @@
+[INFO  31/10/2025 04:03:58 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=jdtls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31/10/2025 04:04:10 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=jdtls)
+[INFO  31/10/2025 04:04:22 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=angular-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31/10/2025 04:04:27 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=angular-language-server)
+[INFO  31/10/2025 04:04:51 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=copilot-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31/10/2025 04:04:56 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=copilot-language-server)
+[INFO  31/10/2025 04:05:06 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=css-lsp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31/10/2025 04:05:12 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=css-lsp)
+[INFO  31/10/2025 04:05:52 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=html-lsp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31/10/2025 04:05:57 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=html-lsp)
+[INFO  31/10/2025 04:06:54 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=prettier) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31/10/2025 04:06:56 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=prettier)
+[INFO  31/10/2025 08:36:26 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=jdtls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31/10/2025 08:36:38 p. m.] ...\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=jdtls) {
+  bypass_permit = true
+}
+[ERROR 31/10/2025 08:36:38 p. m.] ...\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=jdtls) error='...\\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...\\site\\pack\\packer\\start\\mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Admin/AppData/Local/nvim-data/mason/packages/jdtls".'
+[ERROR 31/10/2025 08:36:38 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=jdtls) error='...\\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...\\site\\pack\\packer\\start\\mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Admin/AppData/Local/nvim-data/mason/packages/jdtls".'
+[INFO  31/10/2025 08:36:46 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=jdtls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31/10/2025 08:36:58 p. m.] ...\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=jdtls) {
+  bypass_permit = true
+}
+[WARN  31/10/2025 08:36:58 p. m.] ...\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=jdtls)
+[ERROR 31/10/2025 08:36:58 p. m.] ...\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=jdtls) error='...\\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...\\site\\pack\\packer\\start\\mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Admin/AppData/Local/nvim-data/mason/packages/jdtls".'
+[ERROR 31/10/2025 08:36:58 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=jdtls) error='...\\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...\\site\\pack\\packer\\start\\mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Admin/AppData/Local/nvim-data/mason/packages/jdtls".'
+[INFO  31/10/2025 08:37:17 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=jdtls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31/10/2025 08:37:30 p. m.] ...\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=jdtls) {
+  bypass_permit = true
+}
+[WARN  31/10/2025 08:37:30 p. m.] ...\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=jdtls)
+[ERROR 31/10/2025 08:37:30 p. m.] ...\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=jdtls) error='...\\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...\\site\\pack\\packer\\start\\mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Admin/AppData/Local/nvim-data/mason/packages/jdtls".'
+[ERROR 31/10/2025 08:37:30 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=jdtls) error='...\\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...\\site\\pack\\packer\\start\\mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Admin/AppData/Local/nvim-data/mason/packages/jdtls".'
+[INFO  31/10/2025 08:44:18 p. m.] ...\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=jdtls) {}
+[WARN  31/10/2025 08:44:18 p. m.] ...\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=jdtls)
+[INFO  31/10/2025 08:44:19 p. m.] ...\mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=jdtls)
+[INFO  31/10/2025 08:44:38 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=jdtls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31/10/2025 08:44:49 p. m.] ...rt\mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=jdtls)
